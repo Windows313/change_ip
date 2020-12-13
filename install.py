@@ -8,7 +8,7 @@ if str(choice) =='Y' or str(choice)=='y':
     run('cp windows313.py /usr/share/LebanonCyber/windows313.py')
 
     cmnd=(' #! /bin/sh \n exec python3 /usr/share/LebanonCyber/windows313.py "$@"')
-    with open('/usr/bin/LebanonCyber')as file:
+    with open('/usr/bin/LebanonCyber','w')as file:
         file.write(cmnd)
     run('chmod +x /usr/bin/aut & chmod +x /usr/share/LebanonCyber/windows313.py')
     print('''\n\ncongratulation Ip Changer tools from windows313 is installed successfully \nfrom now just type \x1b[6;30;42mLebanonCyber\x1b[0m in terminal ''')
