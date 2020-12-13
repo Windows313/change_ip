@@ -18,17 +18,17 @@ how to install this tools :
 
 4 : python windows313.py
 
-4 : interminal type ( aut ) any where you want
+5 : interminal type ( aut ) any where you want
   
-5 : type time to change IP
+6 : type time to change IP
 
-6: type how many time to change your ip 
+7 : type how many time to change your ip 
 
 *[0 to infinte IP change]
 
-6 : go to your browser / pc  change sock proxy to 127.0.0.1:9050
+8 : go to your browser / pc  change sock proxy to 127.0.0.1:9050
 
-7 : BOOOOOOMM 
+9 : BOOOOOOMM 
 
 ============
 http://instagram.com/lebanon.cyber/
